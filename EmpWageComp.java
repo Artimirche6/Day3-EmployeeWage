@@ -4,4 +4,5 @@ public class EmpWageComp
 	{
 			System.out.println("Welcome to Employee Wage Computation");
 	}
+
 }
